@@ -1,0 +1,154 @@
+[
+  {
+    "usuario": "admin",
+    "nombre": "Administrador",
+    "rol": "administrador",
+    "referencia": "",
+    "salt": "dddf05d17f13a81cd27426c79fa49be8",
+    "clave_hash": "c3b617e7e78c0f1342dba3194a44165323e6416827cac62d4ab3460dc79f7ed2"
+  },
+  {
+    "usuario": "docente01",
+    "nombre": "Ing. Carlos Zambrano",
+    "rol": "docente",
+    "referencia": "D01",
+    "salt": "87edd37bd24dad01560a4d853f47c717",
+    "clave_hash": "8025939054342f737fcc7ea11dadcb894b1a8d7f5045b999dc75a7283beeee2f"
+  },
+  {
+    "usuario": "docente02",
+    "nombre": "Ing. María Cedeño",
+    "rol": "docente",
+    "referencia": "D02",
+    "salt": "f86b4689063029292c2763c08e324083",
+    "clave_hash": "568f575bfbe2f59a0167eafd49bf61e7d16b29447f8a497fcc4d7d5bf6b81762"
+  },
+  {
+    "usuario": "docente03",
+    "nombre": "Ing. Jorge Mendoza",
+    "rol": "docente",
+    "referencia": "D03",
+    "salt": "6ec0842b3c3bce548216275507a55a0e",
+    "clave_hash": "8f80a28bae3c74e560e44b05e7fe98913c931ff083834a9d7f7b90e43dbfd6e4"
+  },
+  {
+    "usuario": "docente04",
+    "nombre": "Ing. Alexandra Vera",
+    "rol": "docente",
+    "referencia": "D04",
+    "salt": "331ef24dc03bfea7fb6045b7f89f4153",
+    "clave_hash": "dbe61221fabd3ae2beddaca57f3e41f9835a2425e05cd6139a06656da198f5ac"
+  },
+  {
+    "usuario": "docente05",
+    "nombre": "Ing. Danilo Arévalo",
+    "rol": "docente",
+    "referencia": "D05",
+    "salt": "3f71aa33c6a062abb086e521408b7206",
+    "clave_hash": "32405ebc0ba43f57b6a4fced697c2648e3c270f646c5b83ece47750fcf9afcff"
+  },
+  {
+    "usuario": "docente06",
+    "nombre": "Ing. Rocío Villamar",
+    "rol": "docente",
+    "referencia": "D06",
+    "salt": "46f9033a1337100cf6671d07e66f32b1",
+    "clave_hash": "4ecba212f051c8607d5ffa40abf92de24de57ccd2c956aa4717d0fb272540bd3"
+  },
+  {
+    "usuario": "docente07",
+    "nombre": "Ing. Wilian Delgado",
+    "rol": "docente",
+    "referencia": "D07",
+    "salt": "15504e8d23d474d18109cb313556568f",
+    "clave_hash": "8d0480ece2e50d8498c6017294a7e7f2045bcf59a548d2b73458f39a73ecd05c"
+  },
+  {
+    "usuario": "docente08",
+    "nombre": "Ing. Klever Reyes",
+    "rol": "docente",
+    "referencia": "D08",
+    "salt": "7775ccdcc5c6d038d9f3b510a566107b",
+    "clave_hash": "efccea94fd9fd8701790aefa04b0e4840082c1b51d03f8c4dcef19c9e6050580"
+  },
+  {
+    "usuario": "docente09",
+    "nombre": "Ing. Renelmo Minaya",
+    "rol": "docente",
+    "referencia": "D09",
+    "salt": "ee393bc1da985a2c19b11bf80a884159",
+    "clave_hash": "4df566ac7293f1f837604b17fb2f2949d771ff3eb6108a7d956c28604df4eba9"
+  },
+  {
+    "usuario": "docente10",
+    "nombre": "Lic. Bella Barreiro",
+    "rol": "docente",
+    "referencia": "D10",
+    "salt": "9f40871e273136c560fcd01f683fd6bf",
+    "clave_hash": "08e51b842e3a76376ee4ca3d2a9c88fdca9bca0b175cf21d16aa2af1a3e6988b"
+  },
+  {
+    "usuario": "estudiante1",
+    "nombre": "Estudiante Nivel 1",
+    "rol": "estudiante",
+    "referencia": "1",
+    "salt": "2b5c93c9cc4e51957e6c38bbb5743b36",
+    "clave_hash": "905df2c324d46551408bd65a0ec97d200d6e7c6831797fddee9ba6f0e34407ef"
+  },
+  {
+    "usuario": "estudiante2",
+    "nombre": "Estudiante Nivel 2",
+    "rol": "estudiante",
+    "referencia": "2",
+    "salt": "bd21701aefffab308526769e31701cd3",
+    "clave_hash": "14344aeaa8ed80d86fdc85fd0c61fcaac2a6959bdb6c29819553ae3c0fc86180"
+  },
+  {
+    "usuario": "estudiante3",
+    "nombre": "Estudiante Nivel 3",
+    "rol": "estudiante",
+    "referencia": "3",
+    "salt": "e8e64b26133c677aa884ddd06c9b2664",
+    "clave_hash": "a96b62a2548f907e98c699f3463979f6bd6fbb56c1cd81f959b0a91d1167e247"
+  },
+  {
+    "usuario": "estudiante4",
+    "nombre": "Estudiante Nivel 4",
+    "rol": "estudiante",
+    "referencia": "4",
+    "salt": "cb995e24620c6d1fb99db1d234c52d3b",
+    "clave_hash": "a8fb14f01e41d7326dc0fb9485e0029fd34e97e8fb2c63948d2d29906d2f0bc4"
+  },
+  {
+    "usuario": "estudiante5",
+    "nombre": "Estudiante Nivel 5",
+    "rol": "estudiante",
+    "referencia": "5",
+    "salt": "56c0e5238d341166a005ef63e3a2da26",
+    "clave_hash": "723ab26d00fe3d5db7ba7bee4bfef523080f3e5e0d9031312d4253f6ab17a44b"
+  },
+  {
+    "usuario": "estudiante6",
+    "nombre": "Estudiante Nivel 6",
+    "rol": "estudiante",
+    "referencia": "6",
+    "salt": "b66ea5cf821203f70caa86a783abf793",
+    "clave_hash": "dda54e401224043f86dee13fa3b2a6f73e16ce8af5ab657cc28a3c44b08fdd1c"
+  },
+  {
+    "usuario": "estudiante7",
+    "nombre": "Estudiante Nivel 7",
+    "rol": "estudiante",
+    "referencia": "7",
+    "salt": "1a441b6310222cab3b3dbb746206d178",
+    "clave_hash": "19eb105bf2e9cedbe885aaf1d699210e0f490e5d1e94ca7f8c91cc3acf07c18e"
+  },
+  {
+    "usuario": "estudiante8",
+    "nombre": "Estudiante Nivel 8",
+    "rol": "estudiante",
+    "referencia": "8",
+    "salt": "24bed40c9e4049e6a5e85a866e7a3658",
+    "clave_hash": "702220fcd8a169198142f7b0b2761a3cfe7e13e4d3cc9ceebb1dfdb741b89b67"
+  }
+]

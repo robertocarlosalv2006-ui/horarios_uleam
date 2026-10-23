@@ -1,0 +1,671 @@
+{
+  "version": 1,
+  "asignaciones": [
+    {
+      "materia": "IS-802",
+      "nivel": 8,
+      "indice": 1,
+      "docente": "D09",
+      "aula": "L1",
+      "dia": 0,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-803",
+      "nivel": 8,
+      "indice": 1,
+      "docente": "D09",
+      "aula": "L1",
+      "dia": 1,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-103",
+      "nivel": 1,
+      "indice": 1,
+      "docente": "D02",
+      "aula": "L2",
+      "dia": 0,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-104",
+      "nivel": 1,
+      "indice": 1,
+      "docente": "D05",
+      "aula": "A1",
+      "dia": 1,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-103",
+      "nivel": 1,
+      "indice": 2,
+      "docente": "D02",
+      "aula": "L1",
+      "dia": 2,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-203",
+      "nivel": 2,
+      "indice": 1,
+      "docente": "D02",
+      "aula": "L2",
+      "dia": 1,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-203",
+      "nivel": 2,
+      "indice": 2,
+      "docente": "D02",
+      "aula": "L1",
+      "dia": 3,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-204",
+      "nivel": 2,
+      "indice": 1,
+      "docente": "D05",
+      "aula": "A1",
+      "dia": 0,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "ECO-201",
+      "nivel": 2,
+      "indice": 1,
+      "docente": "D05",
+      "aula": "A1",
+      "dia": 2,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-405",
+      "nivel": 4,
+      "indice": 1,
+      "docente": "D05",
+      "aula": "A1",
+      "dia": 3,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-303",
+      "nivel": 3,
+      "indice": 1,
+      "docente": "D02",
+      "aula": "L1",
+      "dia": 4,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-305",
+      "nivel": 3,
+      "indice": 1,
+      "docente": "D04",
+      "aula": "L2",
+      "dia": 2,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-405",
+      "nivel": 4,
+      "indice": 2,
+      "docente": "D05",
+      "aula": "A1",
+      "dia": 4,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-703",
+      "nivel": 7,
+      "indice": 1,
+      "docente": "D06",
+      "aula": "L2",
+      "dia": 3,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-603",
+      "nivel": 6,
+      "indice": 2,
+      "docente": "D06",
+      "aula": "L2",
+      "dia": 4,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-403",
+      "nivel": 4,
+      "indice": 2,
+      "docente": "D06",
+      "aula": "L1",
+      "dia": 0,
+      "bloque_inicio": 6
+    },
+    {
+      "materia": "IS-605",
+      "nivel": 6,
+      "indice": 1,
+      "docente": "D09",
+      "aula": "A2",
+      "dia": 2,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-202",
+      "nivel": 2,
+      "indice": 1,
+      "docente": "D03",
+      "aula": "A2",
+      "dia": 4,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-301",
+      "nivel": 3,
+      "indice": 1,
+      "docente": "D01",
+      "aula": "A2",
+      "dia": 0,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "INN-401",
+      "nivel": 4,
+      "indice": 1,
+      "docente": "D10",
+      "aula": "A2",
+      "dia": 1,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-102",
+      "nivel": 1,
+      "indice": 1,
+      "docente": "D03",
+      "aula": "A2",
+      "dia": 3,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-605",
+      "nivel": 6,
+      "indice": 2,
+      "docente": "D09",
+      "aula": "A3",
+      "dia": 3,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-501",
+      "nivel": 5,
+      "indice": 1,
+      "docente": "D01",
+      "aula": "A3",
+      "dia": 1,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-502",
+      "nivel": 5,
+      "indice": 1,
+      "docente": "D07",
+      "aula": "A4",
+      "dia": 3,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-505",
+      "nivel": 5,
+      "indice": 1,
+      "docente": "D08",
+      "aula": "A3",
+      "dia": 4,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-602",
+      "nivel": 6,
+      "indice": 1,
+      "docente": "D08",
+      "aula": "A3",
+      "dia": 0,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-706",
+      "nivel": 7,
+      "indice": 1,
+      "docente": "D10",
+      "aula": "A3",
+      "dia": 2,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-702",
+      "nivel": 7,
+      "indice": 1,
+      "docente": "D08",
+      "aula": "A4",
+      "dia": 1,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-701",
+      "nivel": 7,
+      "indice": 1,
+      "docente": "D07",
+      "aula": "A4",
+      "dia": 0,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-804",
+      "nivel": 8,
+      "indice": 1,
+      "docente": "D08",
+      "aula": "A4",
+      "dia": 2,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-507",
+      "nivel": 5,
+      "indice": 1,
+      "docente": "D10",
+      "aula": "A1",
+      "dia": 0,
+      "bloque_inicio": 6
+    },
+    {
+      "materia": "IS-805",
+      "nivel": 8,
+      "indice": 2,
+      "docente": "D10",
+      "aula": "A4",
+      "dia": 4,
+      "bloque_inicio": 0
+    },
+    {
+      "materia": "IS-304",
+      "nivel": 3,
+      "indice": 1,
+      "docente": "D02",
+      "aula": "L1",
+      "dia": 0,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-302",
+      "nivel": 3,
+      "indice": 1,
+      "docente": "D03",
+      "aula": "L1",
+      "dia": 1,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-402",
+      "nivel": 4,
+      "indice": 1,
+      "docente": "D03",
+      "aula": "L2",
+      "dia": 0,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-403",
+      "nivel": 4,
+      "indice": 1,
+      "docente": "D06",
+      "aula": "L2",
+      "dia": 1,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-404",
+      "nivel": 4,
+      "indice": 1,
+      "docente": "D04",
+      "aula": "L1",
+      "dia": 2,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-404",
+      "nivel": 4,
+      "indice": 2,
+      "docente": "D04",
+      "aula": "L2",
+      "dia": 4,
+      "bloque_inicio": 1
+    },
+    {
+      "materia": "IS-504",
+      "nivel": 5,
+      "indice": 1,
+      "docente": "D04",
+      "aula": "L1",
+      "dia": 0,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-604",
+      "nivel": 6,
+      "indice": 1,
+      "docente": "D04",
+      "aula": "L1",
+      "dia": 1,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-503",
+      "nivel": 5,
+      "indice": 1,
+      "docente": "D06",
+      "aula": "L2",
+      "dia": 2,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-603",
+      "nivel": 6,
+      "indice": 1,
+      "docente": "D06",
+      "aula": "L2",
+      "dia": 0,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-305",
+      "nivel": 3,
+      "indice": 2,
+      "docente": "D04",
+      "aula": "L1",
+      "dia": 3,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-504",
+      "nivel": 5,
+      "indice": 2,
+      "docente": "D04",
+      "aula": "L1",
+      "dia": 3,
+      "bloque_inicio": 3
+    },
+    {
+      "materia": "IS-604",
+      "nivel": 6,
+      "indice": 2,
+      "docente": "D04",
+      "aula": "L1",
+      "dia": 3,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-302",
+      "nivel": 3,
+      "indice": 2,
+      "docente": "D03",
+      "aula": "L2",
+      "dia": 3,
+      "bloque_inicio": 3
+    },
+    {
+      "materia": "IS-303",
+      "nivel": 3,
+      "indice": 2,
+      "docente": "D02",
+      "aula": "L2",
+      "dia": 1,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-304",
+      "nivel": 3,
+      "indice": 2,
+      "docente": "D02",
+      "aula": "L1",
+      "dia": 2,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-402",
+      "nivel": 4,
+      "indice": 2,
+      "docente": "D03",
+      "aula": "L2",
+      "dia": 2,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-503",
+      "nivel": 5,
+      "indice": 2,
+      "docente": "D06",
+      "aula": "L1",
+      "dia": 4,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-104",
+      "nivel": 1,
+      "indice": 2,
+      "docente": "D05",
+      "aula": "A1",
+      "dia": 4,
+      "bloque_inicio": 1
+    },
+    {
+      "materia": "IS-204",
+      "nivel": 2,
+      "indice": 2,
+      "docente": "D05",
+      "aula": "A1",
+      "dia": 4,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-704",
+      "nivel": 7,
+      "indice": 1,
+      "docente": "D09",
+      "aula": "A1",
+      "dia": 0,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-601",
+      "nivel": 6,
+      "indice": 1,
+      "docente": "D07",
+      "aula": "A4",
+      "dia": 4,
+      "bloque_inicio": 1
+    },
+    {
+      "materia": "IS-201",
+      "nivel": 2,
+      "indice": 1,
+      "docente": "D01",
+      "aula": "A1",
+      "dia": 2,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-101",
+      "nivel": 1,
+      "indice": 1,
+      "docente": "D01",
+      "aula": "A2",
+      "dia": 4,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "CAT-101",
+      "nivel": 1,
+      "indice": 1,
+      "docente": "D10",
+      "aula": "A2",
+      "dia": 0,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-707",
+      "nivel": 7,
+      "indice": 1,
+      "docente": "D10",
+      "aula": "A3",
+      "dia": 4,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-707",
+      "nivel": 7,
+      "indice": 2,
+      "docente": "D10",
+      "aula": "A1",
+      "dia": 1,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-805",
+      "nivel": 8,
+      "indice": 1,
+      "docente": "D10",
+      "aula": "A3",
+      "dia": 3,
+      "bloque_inicio": 1
+    },
+    {
+      "materia": "IS-806",
+      "nivel": 8,
+      "indice": 1,
+      "docente": "D10",
+      "aula": "A2",
+      "dia": 2,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-801",
+      "nivel": 8,
+      "indice": 1,
+      "docente": "D07",
+      "aula": "A1",
+      "dia": 4,
+      "bloque_inicio": 3
+    },
+    {
+      "materia": "IS-606",
+      "nivel": 6,
+      "indice": 1,
+      "docente": "D10",
+      "aula": "A1",
+      "dia": 3,
+      "bloque_inicio": 3
+    },
+    {
+      "materia": "IS-301",
+      "nivel": 3,
+      "indice": 2,
+      "docente": "D01",
+      "aula": "A1",
+      "dia": 3,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-706",
+      "nivel": 7,
+      "indice": 2,
+      "docente": "D10",
+      "aula": "A2",
+      "dia": 3,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-202",
+      "nivel": 2,
+      "indice": 2,
+      "docente": "D03",
+      "aula": "A1",
+      "dia": 0,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-102",
+      "nivel": 1,
+      "indice": 2,
+      "docente": "D03",
+      "aula": "A3",
+      "dia": 2,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-602",
+      "nivel": 6,
+      "indice": 2,
+      "docente": "D08",
+      "aula": "A2",
+      "dia": 1,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-501",
+      "nivel": 5,
+      "indice": 2,
+      "docente": "D01",
+      "aula": "A3",
+      "dia": 1,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-505",
+      "nivel": 5,
+      "indice": 2,
+      "docente": "D08",
+      "aula": "A1",
+      "dia": 2,
+      "bloque_inicio": 4
+    },
+    {
+      "materia": "IS-804",
+      "nivel": 8,
+      "indice": 2,
+      "docente": "D08",
+      "aula": "A2",
+      "dia": 3,
+      "bloque_inicio": 3
+    },
+    {
+      "materia": "IS-801",
+      "nivel": 8,
+      "indice": 2,
+      "docente": "D07",
+      "aula": "A4",
+      "dia": 1,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-101",
+      "nivel": 1,
+      "indice": 2,
+      "docente": "D01",
+      "aula": "A1",
+      "dia": 3,
+      "bloque_inicio": 2
+    },
+    {
+      "materia": "IS-201",
+      "nivel": 2,
+      "indice": 2,
+      "docente": "D01",
+      "aula": "A3",
+      "dia": 3,
+      "bloque_inicio": 3
+    }
+  ]
+}
